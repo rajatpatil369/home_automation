@@ -1,0 +1,5 @@
+arduino_uno/.pio
+arduino_uno/.vscode/.browse.c_cpp.db*
+arduino_uno/.vscode/c_cpp_properties.json
+arduino_uno/.vscode/launch.json
+arduino_uno/.vscode/ipch
